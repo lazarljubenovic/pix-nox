@@ -136,7 +136,7 @@ export default {
 
 #logo > .box {
   position: absolute;
-  top: .64ex;
+  top: .48ex;
   height: calc(.64ex + 1ex);
   left: -.15em;
   width: calc(100% + .3em);
